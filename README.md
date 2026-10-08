@@ -1,7 +1,7 @@
 # Welcome to my private dos test repo 👋
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
 
-> This project is my personal project for a private test of dos attack. The whole script and syntax use a javascript, feel free to write in another language. Have fun!
+> This project is my personal project for a private test of dos attack. The whole script and syntax use a javascript, feel free to edit it in another language. Have fun!
 
 ## Install
 
