@@ -34,6 +34,12 @@ winget k6
 winget k6
 ```
 
+### Docker
+
+```sh
+docker run --rm -i grafana/k6 run - <script.js
+```
+
 ## Usage
 
 ```sh
